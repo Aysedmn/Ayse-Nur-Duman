@@ -1,4 +1,4 @@
-                     =Veri tipleri =
+=Veri tipleri =
 
 Print = Yazdir demek.
 
@@ -25,7 +25,7 @@ Dictionary (dict) = Sözlük anlamina gelir. Sözlüklere küme parantesi ({}) i
 Tuples = Listeye benzer veri türüdür. Ancak listelerden farki olarak, köşeli parantezle içinde alinir.
 
 
-       =Kodlama.io sitesinde değişken olarak kullanianlar=
+=Kodlama.io sitesinde değişken olarak kullanianlar=
 
 Kurs bul = string değeri barindiriyor. 
 Kurs ilerlemeleri = integer değeri barindiriyor. 
@@ -41,3 +41,4 @@ elif odev == "Hayir":
     print("Ödevi yap")
 else:
     print("Geçersiz eylem!")
+    
